@@ -1,19 +1,13 @@
-### Hi there 👋
+### Olá! 👋
 
-### I'm Priscila Miranda!
+### Me chamo Priscila Miranda!
 
-## About me
+## Para saber mais sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/priscilafraser)](https://github.com/priscilafraser)       [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-miranda-95a60b4a/)](https://www.linkedin.com/in/priscila-miranda-95a60b4a/)
 
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
+- Obrigada pela visita.
 
 <!--
 **priscilafraser/priscilafraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
