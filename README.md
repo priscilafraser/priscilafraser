@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser)](https://github.com/priscilafraser/github-readme-stats)
+[priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser&theme=nightowl&show_icons=true)
+
+
+
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
