@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser&theme=nightowl&show_icons=true)
+[priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser&theme=nightowl=true)
 
 
 
