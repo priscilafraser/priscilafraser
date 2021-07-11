@@ -7,9 +7,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/priscilafraser)](https://github.com/priscilafraser)       [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-miranda-95a60b4a/)](https://www.linkedin.com/in/priscila-miranda-95a60b4a/)
 
 
-- Obrigada pela visita.
+- 🌱 Atualmente estudo desenvolvimento web na Blue EdTech. E curso tecnólogo em análise de Big Data.
 
-- 🔭 Atualmente estudo desenvolvimento web na Blue EdTech. E curso tecnólogo em análise de Big Data.
+- Obrigada pela visita.
 <!--
 **priscilafraser/priscilafraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
