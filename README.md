@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 -->
 
 ![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser&theme=nightowl&show_icons=true)
+![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser&theme=radical&show_icons=true)
 
 
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60">
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="40">
