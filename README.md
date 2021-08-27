@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser&theme=nightowl&show_icons=true)
-![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilafraser&layout=compact&langs_count=7&theme=nightowl)
+![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser&theme=nightowl&show_icons=true)    ![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilafraser&layout=compact&langs_count=7&theme=nightowl)
 
 
 
