@@ -13,12 +13,6 @@
 <!--
 **priscilafraser/priscilafraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div>
-  <a href="https://github.com/priscilafraser">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilafraser&layout=compact&langs_count=7&theme=dracula"/>
-<div>
-
-
 
 Here are some ideas to get you started:
 
@@ -33,6 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser&theme=nightowl&show_icons=true)
+![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilafraser&layout=compact&langs_count=7&theme=nightowl)
 
 
 
