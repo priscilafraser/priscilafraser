@@ -28,6 +28,14 @@ Here are some ideas to get you started:
 ![priscilafraser GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilafraser&theme=nightowl&show_icons=true)
 
 
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+
 
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="40">
