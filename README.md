@@ -7,7 +7,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/priscilafraser)](https://github.com/priscilafraser)       [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-miranda-95a60b4a/)](https://www.linkedin.com/in/priscila-miranda-95a60b4a/)
 
 
-- 🔭 Atualmente sou graduanda em Análise e Desenvolvimento de Sistemas na Uninorte. E sou pós-graduanda em IA para Engenharia de Testes de Software na UFAM.
+- 🔭 Atualmente faço residência em IA aplicada a industria no HUB de Inteligência Artificia do Senai PR. E sou pós-graduada em IA para Engenharia de Testes de Software pela Universidade Federal do Amazonas.
 
 - Obrigada pela visita.
 <!--
